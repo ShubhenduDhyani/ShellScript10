@@ -71,7 +71,7 @@ Please ensure your contributions adhere to the coding style and include appropri
 If you have any questions or need support, feel free to reach out:
 
 - **Email:** shubhendudhyani10@gamil.com
-- **GitHub Issues:** [Submit an issue](https://github.com/shubhendudhyani/bash-scripts-collection/issues)
+- **GitHub Issues:** [Submit an issue](https://github.com/ShubhenduDhyani/ShellScript10/issues)
 
 Happy scripting!
 
